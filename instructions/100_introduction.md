@@ -23,4 +23,4 @@ The app will consist of three buttons, one for each of the moves you can play. T
 ![Screenshot of app](http://i.imgur.com/qH9KPq3.png)
 
 
-Next: [Getting Started]({{ "/instructions/getting-started/" | relative_url }})
+* Next: [Getting Started]({{ "/instructions/getting-started/" | relative_url }})
