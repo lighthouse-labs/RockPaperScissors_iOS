@@ -17,7 +17,7 @@ title: Rock Paper Scissors
 email: sam@lighthouselabs.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Rock Paper Scissors
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/RockPaperScissors_iOS" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
